@@ -1,0 +1,13 @@
+# First hyphen is ignored; just typing '-' will expand alias
+alias -- -='cd -'
+
+alias lx='ls -latr'
+
+# Replace with zipcode of choice
+alias forecast='curl -s wttr.in/$MYZIP'
+
+# Adds to running playlist
+alias append='audacious -e'
+
+# Opens file/directory in default viewer
+alias xo='xdg-open'
