@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # First hyphen is ignored; just typing '-' will expand alias
 alias -- -='cd -'
 

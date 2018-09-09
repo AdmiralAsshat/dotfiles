@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Credit to https://github.com/webpro/dotfiles
 
 # Make Tab autocomplete regardless of filename case
